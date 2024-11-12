@@ -1011,7 +1011,7 @@ section,
 }
 
 .portfolio .portfolio-item .portfolio-info {
-  background-color: color-mix(in srgb, #67b0d1, transparent 20%); 
+  background-color: color-mix(in srgb, #67b0d1, transparent 100%); 
   position: absolute;
   left: 30px;
   right: 30px;
